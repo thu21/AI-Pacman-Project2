@@ -7,7 +7,7 @@
 Trả về score + nghịch đảo của giá trị nhỏ nhất trong list trên
 2. Minimax
 * Sử dụng đệ quy hàm miniMax:
-   * Vòng for sẽ chay cho đến khi return giá trị minimax
+   * Vòng for sẽ chạy cho đến khi return giá trị minimax
    * Mỗi lần chạy thì tại từng depth sẽ chạy hết các agent
    * Sau đó tăng depth lên đến self.depth 
    * Cứ như thế sẽ rẽ nhanh các node con 
